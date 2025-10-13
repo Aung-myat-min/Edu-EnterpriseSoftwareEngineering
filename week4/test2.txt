@@ -1,0 +1,7 @@
+This is a small
+test file
+for
+you to play with.
+
+The end.
+
