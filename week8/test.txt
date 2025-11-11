@@ -1,0 +1,5 @@
+To write numbers, convert them into strings, and then use the write
+method to write them to a file. In order to read the numbers back
+correctly, you should separate the numbers with a whitespace
+character such as ' ', '\n'.
+-7  AMM
